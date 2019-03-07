@@ -60,6 +60,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Globotix\SimpleScope2D\DemoScenes\DemoAssets\Scripts\Human.cs" />
+    <Compile Include="Assets\Globotix\SimpleScope2D\DemoScenes\DemoAssets\Scripts\HumanSpawner.cs" />
+    <Compile Include="Assets\Globotix\SimpleScope2D\DemoScenes\DemoAssets\Scripts\ScopeDemoController.cs" />
+    <Compile Include="Assets\Globotix\SimpleScope2D\Scripts\SimpleScope2D.cs" />
     <Compile Include="Assets\Scripts\MoveDuck.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>D:/DemoMR/DemoMR/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
